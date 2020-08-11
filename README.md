@@ -1,3 +1,6 @@
+# PROYECTO BÁSICO GET DATA APIS
+## JSONPLACEHOLDER + RANDOMUSER
+
 # mi_2020
 
 ## Project setup
